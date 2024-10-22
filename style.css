@@ -2,7 +2,12 @@
 
 }
 
-.class {
+.centered {
     display: flex;
     justify-content: center;
+}
+
+
+#grid {
+    outline: solid 2px gray;
 }
